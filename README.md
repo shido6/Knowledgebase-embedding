@@ -2,6 +2,7 @@
 ```
 sudo apt install python3-virtualenv
 virtualenv knowowl
+source knowowl/bin/activate
 ```
 ```
 pip install --upgrade pip pydantic
