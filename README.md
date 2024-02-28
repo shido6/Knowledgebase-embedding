@@ -13,3 +13,5 @@ pip cache purge  # Optional, based on whether you've encountered issues requirin
 ``` 
 streamlit run app3.py 
 ```
+#TODO
+Ollama Pieces. Roles
